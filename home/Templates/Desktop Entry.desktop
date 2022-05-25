@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment=Comment
+Name=Desktop Entry
+Exec=true
+GenericName=Generic Desktop Entry
+Icon=application-default-icon
+Categories=Category1;Category2
+Type=Application

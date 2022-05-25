@@ -1,0 +1,5 @@
+[Keyboard]
+KeyboardRepeating=0
+NumLock=0
+RepeatDelay=500
+RepeatRate=32

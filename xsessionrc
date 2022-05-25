@@ -1,0 +1,2 @@
+# Not all DMs source this by default
+. "$HOME/.profile"
