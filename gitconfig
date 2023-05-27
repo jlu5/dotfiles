@@ -17,3 +17,5 @@
 	prompt = false
 [pull]
 	rebase = true
+[url "https://github.com/"]
+	insteadOf = git://github.com/

@@ -14,3 +14,9 @@ mkcd() {
 rtrail() {
 	sed -i 's/\s*$//g' $*
 }
+
+alias tf='terraform'
+
+venv() {
+    . ~/venvs/"$1"/bin/activate
+}

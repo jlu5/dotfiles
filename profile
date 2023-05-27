@@ -1,7 +1,8 @@
 #!/bin/sh
 
 export LANG=en_CA.UTF-8
-export EMAIL=james@overdrivenetworks.com
+export EMAIL="ja"mes@"overdr"ivenetwo"rks.com"
+export DEBEMAIL="jl"u@"debi"an.org
 export EDITOR=nano
 export DEBFULLNAME="James Lu"
 export WINEPREFIXROOT="$HOME/.local/share/wineprefixes"
