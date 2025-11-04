@@ -1,12 +1,7 @@
 [General]
 EditableUrl=true
+GlobalViewProps=false
 LockPanels=false
+RememberOpenedTabs=false
 ShowFullPath=true
-SortingChoice=CaseInsensitiveSorting
-Version=200
-
-[PreviewSettings]
-Plugins=directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsexethumbnail,svgthumbnail
-
-[VersionControl]
-enabledPlugins=Dropbox,Git
+Version=202

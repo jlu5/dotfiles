@@ -7,7 +7,7 @@ alias mv='mv -i'
 alias cp='cp -i'
 
 mkcd() {
-	mkdir -p $1 && cd $1
+	mkdir -p "$1" && cd "$1"
 }
 
 # Remove trailing whitespace from file
@@ -20,3 +20,5 @@ alias tf='terraform'
 venv() {
     . ~/venvs/"$1"/bin/activate
 }
+
+alias py=python3
